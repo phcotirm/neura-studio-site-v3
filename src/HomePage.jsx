@@ -1,9 +1,6 @@
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-white text-gray-900 font-sans">
-      {export default function HomePage() {
-  return (
-    <div className="min-h-screen bg-white text-gray-900 font-sans">
       <header className="fixed top-0 w-full z-50 bg-white shadow-md p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div className="flex items-center space-x-2">
           <img src="https://i.ibb.co/35khfPg8/Chat-GPT-Image-9-de-abr-de-2025-13-14-31.png" alt="BrandBot Logo" className="w-10 h-10" />
